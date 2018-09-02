@@ -1,0 +1,21 @@
+{
+  "name": "node.api.posts",
+  "version": "1.0.0",
+  "description": "posts api",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "md5": "^2.2.1",
+    "multer": "^1.3.1",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
